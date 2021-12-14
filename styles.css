@@ -125,3 +125,16 @@ h2{
 #info{
     font-size:2vh;
 }
+/*START OF CONTACT*/
+#contactBar{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;  
+    height: 50vh;
+}
+#contactInfo{
+    width: 50vw;
+    padding-left: 10vw;
+    text-align:left;
+}

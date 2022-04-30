@@ -1,0 +1,1 @@
+cp -R * /usr/share/nginx/html

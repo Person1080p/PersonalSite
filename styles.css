@@ -12,7 +12,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: var(--bgcolor);
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
 }
 body::-webkit-scrollbar{
     width: 0.25rem;
@@ -156,9 +156,9 @@ h2{
 }
 #contactPad1{
     text-align: left;
-    width:20vw;
+    width:15vw;
 }
 #contactPad2{
     text-align: left;
-    width:70vw;
+    width:65vw;
 }

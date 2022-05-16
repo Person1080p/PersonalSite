@@ -147,12 +147,11 @@ h2{
 #contactBar{
     display: flex;
     flex-direction:row;
-    justify-content: center;
+    justify-content: left;
     align-items: center;  
     height: 50vh;
 }
 #contactInfo{
     width: 50vw;
-    padding-left: 10vw;
     text-align: left;
 }

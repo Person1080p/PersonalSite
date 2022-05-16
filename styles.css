@@ -14,6 +14,14 @@ body{
     background-color: var(--bgcolor);
     overflow-x: hidden;
 }
+a:link, a:visited {
+    color: var(--itemcolor);
+    text-decoration: underline;
+  }
+  
+  a:link:active, a:visited:active {
+    color: var(--whitesmoke);
+  }
 body::-webkit-scrollbar{
     width: 0.25rem;
 }

@@ -146,12 +146,19 @@ h2{
 /*START OF CONTACT*/
 #contactBar{
     display: flex;
-    flex-direction:row;
-    justify-content: left;
+    justify-content: center;
     align-items: center;  
     height: 50vh;
 }
 #contactInfo{
     width: 50vw;
     text-align: left;
+}
+#contactPad1{
+    text-align: left;
+    width:20vw;
+}
+#contactPad2{
+    text-align: left;
+    width:70vw;
 }

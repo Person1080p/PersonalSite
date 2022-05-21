@@ -15,12 +15,12 @@ body{
     overflow-x: hidden;
 }
 a:link, a:visited {
-    color: var(--itemcolor);
+    color: whitesmoke;
     text-decoration: underline;
   }
   
   a:link:active, a:visited:active {
-    color: var(--whitesmoke);
+    color: var(--itemcolor);
   }
 body::-webkit-scrollbar{
     width: 0.25rem;

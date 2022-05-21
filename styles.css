@@ -20,7 +20,7 @@ a:link, a:visited {
   }
   
   a:link:active, a:visited:active {
-    color: var(--itemcolor);
+    color: whitesmoke;
   }
 body::-webkit-scrollbar{
     width: 0.25rem;

@@ -1,4 +1,5 @@
-# PersonalSite
+# Personal Site
+Recently Redid my site using angular and ported it to digitial ocean instead of my attic proxmox setup, most of this is just default readme stuff
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
